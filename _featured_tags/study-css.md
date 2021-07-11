@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: VISION
-slug: vision
-category: class
+title: CSS
+slug: css
+category: study
 menu: false
 order: 2
 ---

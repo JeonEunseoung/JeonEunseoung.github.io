@@ -9,17 +9,17 @@ vvs:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   # 자기 소개
   about:             |
-    간단한 자기소개
-    저는 서경대학교 컴퓨터공학과에 재학중인 대학생입니다
+   서경대학교 컴퓨터공학과<br>
+   서경대학교 이양선교수님 학부연구생
 
 
   # This photo will be used in the about section
   picture:
-    src:             /assets/img/me.png
+    src:             /assets/img/me2.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            /assets/img/me.png
-      2x:            /assets/img/me.png
+      1x:            /assets/img/me2.png
+      2x:            /assets/img/me2.png
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
@@ -61,7 +61,7 @@ vvs:
     # stumbleupon:     <username>
     # paypal:          <username>
     email:           jjjes758@skuniv.ac.kr
-    rss:             https://khw11044.github.io/feed.xml
+    rss:             https://jeoneunseoung.github.io/feed.xml
 
 # Another author
 author2:

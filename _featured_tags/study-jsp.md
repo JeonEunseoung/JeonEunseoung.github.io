@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: HTML
-slug: html
+title: JSP
+slug: jsp
 category: study
 menu: false
-order: 1
+order: 3
 ---
