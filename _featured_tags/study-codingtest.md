@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: CODING TEST
-slug: coding test
+title: 알고리즘
+slug: 알고리즘
 category: study
 menu: false
 order: 4
