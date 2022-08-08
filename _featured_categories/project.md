@@ -6,5 +6,5 @@ menu: true
 submenu: false
 order: 3
 description: >
-  동국대학교 PLASS-NIA 인공지능학습데이터구축사업 (2021)
+  <a href="https://github.com/JeonEunseoung/-NIA-Project_C3D">동국대학교 PLASS-NIA 인공지능학습데이터구축사업 (2021)</a>
 ---
