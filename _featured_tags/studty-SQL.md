@@ -4,5 +4,5 @@ title: SQL
 slug: SQL
 category: study
 menu: false
-order: 9
+order: 3
 ---
