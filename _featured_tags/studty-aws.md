@@ -1,6 +1,6 @@
 ---
 layout: tag-blog
-title: Algorithm
+title: AWS
 slug: aws
 category: study
 menu: false
