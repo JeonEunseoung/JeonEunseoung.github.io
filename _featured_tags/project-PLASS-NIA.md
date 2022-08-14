@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: PLASS-NIA
-slug: PLASS-NIA
+title: PLASSNIA
+slug: PLASSNIA
 category: project
 menu: false
 order: 1

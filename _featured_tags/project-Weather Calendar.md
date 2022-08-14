@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Weather Calendar
-slug: Weather Calendar
+title: WeatherCalendar
+slug: WeatherCalendar
 category: project
 menu: false
 order: 3
