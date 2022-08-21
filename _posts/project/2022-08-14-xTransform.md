@@ -26,7 +26,9 @@ Flask, MySQL, AWS를 사용한 스마트 정류장 차광막 제어 웹 사이�
 <img src="/assets/img/xtransform-5.jpg" title="xtransform-5" alt="xtransform-5"/><br>
 <img src="/assets/img/xtransform-6.jpg" title="xtransform-6" alt="xtransform-6"/><br>
 <img src="/assets/img/xtransform-7.jpg" title="xtransform-7" alt="xtransform-7"/><br>
+<br>
 <video
+  width="100%"
   src="/assets/img/xt.mp4"
   cotrols
   autoplay
