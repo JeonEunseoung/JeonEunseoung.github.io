@@ -29,7 +29,7 @@ Flask, MySQL, AWS를 사용한 스마트 정류장 차광막 제어 웹 사이�
 <br>
 <video
   width="100%"
-  src="/assets/img/xt.mp4"
+  src="/assets/img/xt.mpg"
   cotrols
   autoplay
 ></video>
