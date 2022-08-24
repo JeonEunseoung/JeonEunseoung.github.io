@@ -33,4 +33,13 @@ Flask, MySQL, AWS를 사용한 스마트 정류장 차광막 제어 웹 사이�
   cotrols
   autoplay
 ></video>
+<br><br>
+Shell Script, Crontab을 활용한 예약 시스템
+<video
+  width="100%"
+  src="/assets/img/xt_reservation.mp4"
+  cotrols
+  autoplay
+></video>
+
 
