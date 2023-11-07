@@ -16,9 +16,9 @@ font-weight:bold">
 
 <center>MAJOR : COMPUTER EENGINEERING</center>
 
-<center>Seokyeong University</center>
+<center>Ahnlab</center>
 
-<center>124, Seokyeong-ro, Seongbuk-gu, Seoul, Republic of Korea</center>
+<center>220, Pangyoyeok-ro, Seongnam-si, Gyeonggi-do</center>
 
 ## Personal Data
 ---
@@ -31,7 +31,7 @@ font-weight:bold">
 
 ## Education
 ---
-> Mar.2017 ~ 현재 : 서경대학교 컴퓨터공학과
+> Mar.2017 ~ Feb.2023 : 서경대학교 컴퓨터공학과 졸업
 
 
 ## Research Interest
@@ -46,10 +46,13 @@ font-weight:bold">
     + DJANGO
 * DATABASE
     + MYSQL
+    + POSTGRESQL
     + ORACLE
     + FIREBASE
 * CLOUD
     + AWS
+* DATA
+    + Apache Kafka
 
 ## Project
 ---
